@@ -12,4 +12,7 @@ Die gefundenen Dateien werden in einem Textfeld angezeigt und gelb markiert.
 python3 dateisucher.py
 ```
 
-[!Bild](https://github.com/n1lt3x/Dateisucher/assets/165163116/695e68f7-9697-415b-9226-d05580d8c879)
+
+
+
+![bild dateisucher](https://github.com/n1lt3x/Dateisucher/assets/165163116/adc37017-9e2b-4410-acd4-2cf72e8d2ddb)
