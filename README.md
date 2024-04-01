@@ -1,5 +1,5 @@
 # Dateisucher
-**Only German**
+### Only German
 
 ### Beschreibung
 Das Programm ist eine einfache GUI-Anwendung in Python, die einen erweiterten Dateisucher darstellt.
@@ -7,7 +7,7 @@ Die Anwendung ermöglicht es dem Benutzer, ein Verzeichnis auszuwählen und nach
 Die gefundenen Dateien werden in einem Textfeld angezeigt und gelb markiert.
 
 
-**Benutzung**   
+### Benutzung  
 ```bash
 python3 dateisucher.py
 
