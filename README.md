@@ -10,6 +10,4 @@ Die gefundenen Dateien werden in einem Textfeld angezeigt und gelb markiert.
 ### Benutzung  
 ```bash
 python3 dateisucher.py
-
-
 ```
